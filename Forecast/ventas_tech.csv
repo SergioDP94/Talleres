@@ -1,4 +1,4 @@
-Fecha,variable,Medio_pago,Sucursal,Factura
+Fecha,Producto,Medio_pago,Sucursal,Factura
 2024-01-01,Laptops,Efectivo,Sucursal Sur,FAC000001
 2024-01-01,Laptops,Tarjeta de Crédito,Sucursal Centro,FAC000002
 2024-01-01,Laptops,Efectivo,Sucursal Norte,FAC000003
